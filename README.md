@@ -1,6 +1,7 @@
 # C - Sorting algorithms & Big O
 
 In this project, We implemented twelve different sorting algorithms.
+It was a fantstic Task that allowed in depth showcase of sorting skills in c 
 
 Function Prototypes:
 
@@ -20,3 +21,5 @@ Function Prototypes:
 | `105-radix_sort.c`         | `void radix_sort(int *array, size_t size);`       |
 | `106-bitonic_sort.c`       | `void bitonic_sort(int *array, size_t size);`     |
 | `107-quick_sort_hoare.c`   | `void quick_sort_hoare(int *array, size_t size);` |
+
+These are the files with the respective prototype.
